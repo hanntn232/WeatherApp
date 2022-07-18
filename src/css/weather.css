@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@500&family=Roboto:wght@300&display=swap');
+.container {
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    display: flex;
+    padding: 20px 40px;
+    border: 1px solid red;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.main-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.city {
+    font-family: 'Edu SA Beginner';
+}
